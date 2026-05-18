@@ -2,16 +2,13 @@
 Sistema de geranciamento e agentdamento de consultas para clinica de Psicologia
 
 ## 1ª Etapa Trabalho de levantamento de requisitos
-
-[Sintese Do Sistema Analogos(Doctolaria)](SinteseSisAnalogo.md)
-
-[Lista de requisitos - Geral](requisitosGeral.md)
-
-[Sintese e Descrição das entrevistas](entrevistas.md)
-
-[Matriz Rastreabilidade](matrizaRastreabilidade.md)
-
-[Questionario](questionario.md)
+| Item | Documento |
+| :--- | :--- |
+|Sistema Analogo | [Sintese Do Sistema Analogos(Doctolaria)](SinteseSisAnalogo.md) |
+|Lista de requisitos| [Lista de requisitos - Geral](requisitosGeral.md) |
+|Descrição das entrevistas| [Sintese e Descrição das entrevistas](entrevistas.md) |
+|Matriz Rastreabilidade| [Matriz Rastreabilidade](matrizaRastreabilidade.md) |
+|Questionario| [Questionario](questionario.md) |
 
 ## 2ª Etapa de Engenharia de Requisitos
 
