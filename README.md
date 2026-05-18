@@ -13,7 +13,7 @@ Sistema de geranciamento e agentdamento de consultas para clinica de Psicologia
 
 [Questionario](questionario.md)
 
-## Entrega 13/05 - 2ª Etapa de Engenharia de Requisitos
+## 2ª Etapa de Engenharia de Requisitos
 
 [Pacote da 2ª etapa](entrega-13-05/README.md)
 
