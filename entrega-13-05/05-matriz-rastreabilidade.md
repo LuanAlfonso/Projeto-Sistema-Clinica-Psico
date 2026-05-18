@@ -31,7 +31,7 @@ Relaciona objetivos de negócio a funcionalidades e artefatos técnicos.
 | :--- | :--- | :--- | :--- | :--- |
 | Reduzir faltas às consultas | RF01, RF02, RF07 | UC01, UC02 | Consulta, Notificação, Paciente | Diagrama de casos de uso, protótipo agenda, matriz de testes |
 | Reduzir trabalho manual da recepção | RF01, RF02, RF04, RF09 | UC01, UC02, UC04 | Consulta, Pagamento, Paciente | Protótipo agenda, protótipo financeiro |
-| Proteger sigilo clínico | RF03, RF08, RNF01, RNF02, RNF06 | UC03 | Prontuário, Evolução, Usuário, PerfilAcesso | Especificação suplementar, dicionário de dados |
+| Proteger sigilo clínico | RF03, RF08, RNF01, RNF02, RNF06 | UC03 | Prontuário, Evolução, Usuário, PerfilAcesso | Especificação suplementar, controle de permissões |
 | Melhorar controle financeiro | RF04, RF09, RF10 | UC04, UC06 | Pagamento, Consulta, Paciente | Protótipo financeiro, relatórios |
 | Oferecer experiência responsiva | RNF03, RNF04 | Todos | Não aplicável | Protótipos desktop/mobile, especificação suplementar |
 
@@ -42,4 +42,3 @@ Relaciona objetivos de negócio a funcionalidades e artefatos técnicos.
 - UC: Caso de uso.
 - A rastreabilidade horizontal acompanha o requisito entre artefatos do mesmo nível de entrega.
 - A rastreabilidade vertical liga objetivos de negócio, requisitos, funcionalidades, dados e validação.
-

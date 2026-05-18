@@ -117,7 +117,5 @@ O produto será usado por recepção, psicólogos, pacientes e administradores. 
 
 - Todos os requisitos devem possuir rastreabilidade.
 - As telas principais devem existir no protótipo.
-- O MER e o dicionário de dados devem cobrir as entidades principais.
 - A especificação suplementar deve contemplar requisitos não funcionais por categoria de qualidade.
 - Os documentos devem estar versionados no GitHub.
-
