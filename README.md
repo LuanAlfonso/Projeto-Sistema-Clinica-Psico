@@ -23,3 +23,9 @@ Sistema de geranciamento e agentdamento de consultas para clinica de Psicologia
 | Especificação suplementar de RNF - ISO/IEC 25010 | [07-especificacao-suplementar-rnf.md](07-especificacao-suplementar-rnf.md) |
 | Especificação de requisitos - IEEE 830 / EOR | [08-especificacao-requisitos.md](08-especificacao-requisitos.md) |
 
+##3ª Etapa Baseada no modelo C4
+| Item | Documento |
+| :--- | :--- |
+|Modelagem BPMN||
+|Diagrama de caso de uso||
+|||
