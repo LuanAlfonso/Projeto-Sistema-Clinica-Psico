@@ -26,6 +26,6 @@ Sistema de geranciamento e agentdamento de consultas para clinica de Psicologia
 ## 3ª Etapa Baseada no modelo C4
 | Item | Documento |
 | :--- | :--- |
-|Modelagem BPMN||
-|Diagrama de caso de uso||
-|||
+|Modelagem BPMN|[Fluxo_BPMN.jpeg]|
+|Diagrama de caso de uso|[diagrama_casos_de_uso.svg]|
+
